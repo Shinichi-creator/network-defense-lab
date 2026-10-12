@@ -1,6 +1,5 @@
 # Network Defense and Vulnerability Remediation Lab
 
-**Author:** Marcus Draper  
 **Original exercise:** Defending the Network from a Simulated Attack (3e), Network Security, Firewalls, and VPNs — Lab 02  
 **Environment:** Guided educational lab using simulated systems.
 
@@ -49,4 +48,4 @@ The retest supports remediation of the tested exploit path in this lab. It does 
 
 ## Scope and limitations
 
-This was a guided academic exercise, not a production engagement or independently designed penetration test. EICAR files are antivirus test artifacts. The Windows scan covers only the eight scanned files. The firewall screenshot does not include a subsequent connectivity test. Original lab screenshots retain their visible timestamps and attribution.
+This was a guided academic exercise, not a production engagement or independently designed penetration test. EICAR files are antivirus test artifacts. The Windows scan covers only the eight scanned files. The firewall screenshot does not include a subsequent connectivity test. Screenshot watermarks containing personal attribution and lab-session details have been redacted.
