@@ -34,18 +34,18 @@ This project documents an attack-and-defense exercise: reviewing simulated netwo
 
 ### Before remediation
 
-![Successful Shellshock lab test](screenshots/07-shellshock-before-patch.png)
+![Successful Shellshock lab test](07-shellshock-before-patch.png)
 
 ### After remediation
 
-![Shellshock retest after package update](screenshots/10-shellshock-retest.png)
+![Shellshock retest after package update](10-shellshock-retest.png)
 
 The retest supports remediation of the tested exploit path in this lab. It does not establish that every vulnerability was removed.
 
 ## Documentation
 
-- [Lab report](docs/lab-report.md)
-- [Screenshot evidence index](docs/evidence-index.md)
+- [Lab report](lab-report.md)
+- [Screenshot evidence index](evidence-index.md)
 
 ## Scope and limitations
 
